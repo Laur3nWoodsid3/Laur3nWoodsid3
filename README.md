@@ -1,4 +1,4 @@
-![github-header-image (6)]()
+
 
 <h1 align="center">Technologies</h1>
 
